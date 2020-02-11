@@ -1,0 +1,6 @@
+Mexico	60000000	Spanish
+Egypt	80000000	Egyptian
+Canada	120000000	English/French
+France	120000000	French
+Germany	140000000	German
+USA	300000000	English
